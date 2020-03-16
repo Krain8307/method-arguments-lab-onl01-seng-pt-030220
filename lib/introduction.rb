@@ -1,7 +1,8 @@
 # lib/introduction.rb 
 
 def introduction(name="Dan")
-  puts "Hi, my name is #{name}"
+  puts "Hi, my name is #{name}."
+end 
 
 
 
