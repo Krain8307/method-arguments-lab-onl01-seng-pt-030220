@@ -1,6 +1,6 @@
 # lib/introduction.rb 
 
-def introduction(name='Josh')
+def introduction(name=)
 
 
 
